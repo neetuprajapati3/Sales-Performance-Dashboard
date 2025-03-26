@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/bbe776c2-a832-40e7-a93b-007554c48a76)
 
-🚀 #Sales Performance Dashboard - **Power BI** 📊
+# 🚀 Sales Performance Dashboard - **Power BI** 📊
 
 🔍 # Key Highlights of the Dashboard:
 
