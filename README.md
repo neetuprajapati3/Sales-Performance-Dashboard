@@ -2,9 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/bbe776c2-a832-40e7-a93b-007554c48a76)
 
-🚀 **Sales Performance Dashboard** - **Power BI** 📊
+🚀 ##Sales Performance Dashboard - **Power BI** 📊
 
 🔍 # Key Highlights of the Dashboard:
+
 📌 **Total Sales & Profit**: The company has achieved ₹2.30M in sales with a profit of ₹286K.
 
 📌 **Total Quantity & Returns:** The business has sold 38K units, while 301 returns were recorded.
