@@ -1,6 +1,7 @@
 # Sales-Performance-Dashboard
 
-![image](https://github.com/user-attachments/assets/bbe776c2-a832-40e7-a93b-007554c48a76)
+![image](https://github.com/user-attachments/assets/ba18a4a3-b725-4683-8319-d908bc8e49df)
+
 
 # 🚀 Sales Performance Dashboard - **Power BI** 📊
 
